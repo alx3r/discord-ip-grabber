@@ -8,9 +8,9 @@
 3. Abrir Visual Studio Code.
 4. Después copía el link del weebhook y pegalo en "IPgrabber.py" en la línea 7.
 5. Una vez que hayas hecho todo esto dale a "Run and Debug" o crtl + mayús + D y te llevará a "Run and Debuger" si es que no sabes ubicarlo.
-6. Espera un momento y !listo! el webhook a obtenido la ip de la víctima 
+6. Espera un momento y !listo! el webhook a obtenido la ip 
 
-- Nota: es más recomendable hacer que el webhook envie la ip de la víctima en un canal privado.
+- Nota: es más recomendable hacer que el webhook envie la ip en un canal privado.
 
 # instruccions - english
 - To execute you must do the following:
@@ -22,4 +22,4 @@
 5. Once you have done all this hit "Run and Debug" or crtl + shift + D and it will take you to "Run and Debuger" if you don't know how to locate it.
 6. Wait a minute and voila! the webhook has obtained the victim's ip
 
-- Note: it is more advisable to make the webhook send the victim's IP on a private channel.
+- Note: it is more advisable to make the webhook send the IP on a private channel.
